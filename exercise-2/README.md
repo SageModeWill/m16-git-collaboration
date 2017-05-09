@@ -27,3 +27,5 @@ To allow **Person 2** to replay their changes on top of the most recent version 
 - **Person 2** will then have to open up the `README.md` file to make changes manually to the file
 - After making the file look **exactly how the want**, **Person 2** should add their changes to the rebase (i.e., `git add .`) and then continue (complete) the rebase (`git rebase --continue`)
 - **Person 2** should now be able to push their (integrated) changes up to GitHub.
+
+MY FAVORITE CANDY IS SKITTLES BOIIIIIIIIIIIIIIIIIII
